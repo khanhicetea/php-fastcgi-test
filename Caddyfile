@@ -1,0 +1,6 @@
+localhost:9000
+
+fastcgi / localhost:5000
+rewrite {
+    to {path} {path}/ /index.php{query}
+}

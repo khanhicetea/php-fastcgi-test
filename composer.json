@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpfastcgi/fastcgi-daemon": "~0.8",
+        "silex/silex": "~2.0"
+    }
+}
